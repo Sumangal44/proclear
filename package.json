@@ -1,0 +1,40 @@
+{
+	"name": "proclear",
+	"version": "1.0.0",
+	"type": "module",
+	"author": {
+		"name": "sumangal karan",
+		"email": "sumnagalkaran44@gmail.com",
+		"url": "https://github.com/sumnagal44"
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Sumangal44/proclear.git"
+	},
+	"bugs": {
+		"url": "https://github.com/sumangal44/proclear/issues"
+	},
+	"license": "MIT",
+	"files": [
+		"index.js"
+	],
+	"homepage": "https://github.com/sumangal44/proclear#readme",
+	"keywords": [
+		"proclear",
+		"pro",
+		"clear",
+		"clear console",
+		"console",
+		"clear console windows",
+		"clear console in windows",
+		"clear console in linux",
+		"clear console in mac os",
+		"sumangal karan",
+		"sumangal44"
+	],
+	"description": "A simple package to clear console in windows, linux and mac os."
+}
