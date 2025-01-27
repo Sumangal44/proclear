@@ -15,21 +15,21 @@ A lightweight and powerful cross-platform console clearer for Node.js. `proclear
 
 ## Installation
 
-Install `proclear` via npm:
+Install `Proclear` via npm:
 
 ```bash
-npm install proclear
+npm install Proclear
 ```
 
 ---
 
 ## Usage
 
-Here's how to use `proclear` in your Node.js project:
+Here's how to use `Proclear` in your Node.js project:
 
 ### Clear the Console
 ```javascript
-import proclear from 'proclear';
+import proclear from 'Proclear';
 proclear();
 ```
 
@@ -39,7 +39,7 @@ proclear();
 
 ### Example: Clear Console with Default Behavior
 ```javascript
-import proclear from 'proclear';
+import proclear from 'Proclear';
 
 console.log('Before clearing...');
 proclear();
@@ -49,9 +49,9 @@ console.log('This appears on a clean terminal!');
 
 ---
 
-## Why `proclear`?
+## Why `Proclear`?
 
-`proclear` provides a reliable way to clean up your terminal output. Unlike other packages, it supports both clearing the screen and optionally resetting the scrollback buffer, giving you full control.
+`Proclear` provides a reliable way to clean up your terminal output. Unlike other packages, it supports both clearing the screen and optionally resetting the scrollback buffer, giving you full control.
 
 ---
 
@@ -64,7 +64,7 @@ console.log('This appears on a clean terminal!');
 
 ## License
 
-`proclear` is licensed under the [MIT License](LICENSE).
+`Proclear` is licensed under the [MIT License](LICENSE).
 
 ---
 
